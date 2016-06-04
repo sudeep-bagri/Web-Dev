@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.form-signin {
+    position: relative;
+  top: 50%;
+  width: 75%;
+  display: table;
+  margin: -150px auto 0 auto;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.form-signin .form-signin-heading{
+    position: relative;
+  width: 100%;
+  display: block;
+  background: #EA6153;
+  padding: 15px;
+  color: #fff;
+  font-size: 20px;
+}
+.form-signin input[type="text"],
+.form-signin input[type="password"],
+.form-signin input[type="email"] {
+    font-size: 16px;
+    height: auto;
+    padding: 7px 9px;
+}
+
+.signin-form
+{
+	//border:solid red 1px;
+	margin-top:80px;
+}
+.navbar-brand{
+	font-family:"Lucida Handwriting";
+}
+#btn-submit{
+	height:45px;
+}
